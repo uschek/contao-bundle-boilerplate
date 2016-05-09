@@ -1,0 +1,17 @@
+{
+    "name": "demo/contao-demo-bundle",
+    "description": "Contao demo bundle",
+    "type": "symfony-bundle",
+    "authors": [
+        {
+            "name": "Demo",
+            "email": "demo@example.com",
+            "homepage": "https://example.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Demo\\DemoBundle\\": "src/"
+        }
+    }
+}
