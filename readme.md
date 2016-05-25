@@ -14,6 +14,11 @@ $ curl -sSL https://github.com/uschek/contao-bundle-boilerplate/archive/master.t
 ```
 
 
+## Related
+
+- [contao-module-boilerplate](https://github.com/uschek/contao-module-boilerplate) - Boilerplate for Contao 3 modules
+
+
 ## License
 
 MIT © [Christoph Uschkrat](https://c.uschkrat.com)
