@@ -10,7 +10,7 @@ Directory structure as [recommended by Leo Feyer](https://leofeyer.de/files/slid
 In your working directory, simply run:
 
 ```
-$ curl -sSL https://github.com/uschek/contao-bundle-boilerplate/archive/master.tar.gz | tar -xz --strip-components=2 contao-bundle-boilerplate-master/bundle
+$ curl -sSL https://github.com/uschek/contao-bundle-boilerplate/archive/master.tar.gz | tar -xz --strip-components=2 contao-bundle-boilerplate-master/boilerplate
 ```
 
 
